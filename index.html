@@ -10,12 +10,12 @@
 
 </head>
 <body>
-<?php
+<script>
 
 setcookie('nick', '');
 setcookie('pass', '');
 
-?>
+</script>
 
 <script src="menu-rozwin.js"></script>    
 
@@ -40,7 +40,7 @@ setcookie('pass', '');
 
 
         </nav>
-<?php
+<script>
 if(isset($_COOKIE['nick']) && isset($_COOKIE['pass'])){
 
     echo "<main id='news'>
@@ -55,7 +55,7 @@ if(isset($_COOKIE['nick']) && isset($_COOKIE['pass'])){
 
 }
         
-?>
+</script>
     </div>
 
 </body>
