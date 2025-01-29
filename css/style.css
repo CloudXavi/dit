@@ -1,0 +1,97 @@
+html {
+
+    background-color: #444444;
+
+}
+
+#container {
+
+    background-color: #222222;
+    height: 1200px;
+
+}
+
+#logo {
+
+    height: 100px;
+    width: 100px;
+    margin-bottom: 20px;
+
+}
+
+#menu {
+
+    background-color: salmon;
+    height: 40px;
+    margin-top: 30px;
+
+}
+
+ul {
+
+    color: whitesmoke;
+    height: 100%;
+    display: block;
+
+}
+
+li {
+
+    height: 30px;
+    border-right: solid #222222;
+    font-size: x-large;
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    float: left;
+
+}
+
+#menu-rozwin {
+
+    background-color: salmon;
+    height: 500px;
+    width: 15%;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: whitesmoke;
+
+}
+
+#news {
+
+    width: 50%;
+    margin-left: 50%;
+    text-align: center;
+    background-color: salmon;
+
+}
+
+h1 {
+
+    background-color: salmon;
+    color: black;
+    height: 40px;
+    width: 50%;
+    border-radius: 10px;
+
+}
+
+form {
+
+    color: whitesmoke;
+    margin-left: 30%;
+    height: 10%;
+
+}
+
+input {
+
+    height: 50%;
+    width: 50%;
+    margin-top: 20px;
+    border-radius: 40px;
+    font-size: xx-large;
+
+}
+
